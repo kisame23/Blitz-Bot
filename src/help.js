@@ -20,9 +20,7 @@ const help = (prefix) => {
 ➸ uso : responder adesivo com ${prefix}toimg\n
 
 ╔════════════════════
-  FEITO POR *Kisame 🦈*
-  DUVIDAS? 👇
-  WA.me/559284834955
+  FEITO POR *Kisame 🦈🃏*
 ╚════════════════════`
 }
 
